@@ -14,3 +14,9 @@ The datasets have tennis statistics updated till the year 2017.I will be referri
  - https://github.com/serve-and-volley/atp-world-tour-tennis-data
  - https://www.atptour.com/en/stats
  - https://tt.tennis-warehouse.com/index.php?threads/ranking-of-players-by-height-and-aces-match.605996/
+
+### Dashboard Snapshots: 
+
+## Player Analysis:
+
+![alt text](https://github.com/rahulrohri/Fall-2020--DWBI-Final-Project/blob/main/Dashboard%20Screenshots/Player%20Analysis.png?raw=true)
