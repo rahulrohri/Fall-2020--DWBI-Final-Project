@@ -17,6 +17,10 @@ The datasets have tennis statistics updated till the year 2017.I will be referri
 
 ### Dashboard Snapshots: 
 
-## Player Analysis:
+## Player Analysis Dashboard:
 
 ![alt text](https://github.com/rahulrohri/Fall-2020--DWBI-Final-Project/blob/main/Dashboard%20Screenshots/Player%20Analysis.png?raw=true)
+
+## BIG 4 Analysis Dashboard:
+
+![alt text](https://github.com/rahulrohri/Fall-2020--DWBI-Final-Project/blob/main/Dashboard%20Screenshots/BIG%204%20Analysis.png?raw=true)
